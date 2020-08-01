@@ -8,12 +8,12 @@ Taken from <a href="https://github.com/samirazazy/Flutter"><strong>Link to origi
 
 <div style="display: flex;">
     <div style="flex: 50%; padding: 5px;">
-        <a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps">
+        <a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps" style="width:100%">
             <img src="https://github.com/samirazazy/Flutter/blob/master/images/angela.jpg" style="width:100%"/>
         </a>
     </div>
     <div style="flex: 50%; padding: 5px;">
-        <a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps">
+        <a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps" style="width:100%">
             <img src="https://github.com/samirazazy/Flutter/blob/master/images/max.jpg" style="width:100%"/>
         </a>
     </div>
