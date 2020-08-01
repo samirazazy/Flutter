@@ -6,17 +6,4 @@ Taken from <a href="https://github.com/samirazazy/Flutter"><strong>Link to origi
 
 # Flutter
 
-<div style="display: flex;">
-    <div style="flex: 50%; padding: 5px;">
-        <a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps" style="width:100%">
-            <img src="https://github.com/samirazazy/Flutter/blob/master/images/angela.jpg" style="width:100%"/>
-        </a>
-    </div>
-    <div style="flex: 50%; padding: 5px;">
-        <a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps" style="width:100%">
-            <img src="https://github.com/samirazazy/Flutter/blob/master/images/max.jpg" style="width:100%"/>
-        </a>
-    </div>
-</div>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Angela</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Maximilian<b><br/>
+<a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20Angela%20course%20apps"><img src="https://github.com/samirazazy/Flutter/blob/master/images/angela.jpg?" alt="Illustration" width="350px" height="320px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/samirazazy/Flutter/tree/master/Flutter%20maximilian%20course%20apps"><img src="https://github.com/samirazazy/Flutter/blob/master/images/max.jpg?" alt="Illustration" width="350px" height="320px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Angela</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Maximilian<b><br/>
